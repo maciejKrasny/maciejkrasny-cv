@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c7e903969cbeaf8b1230964d5aaf309",
+    "revision": "76901713a0390854344a6d2c3c7cb988",
     "url": "/maciejkrasny-cv/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maciejkrasny-cv/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "3fe0492b8abf06544f74",
+    "revision": "749c6980d4daee085009",
     "url": "/maciejkrasny-cv/static/css/main.1cbd3dda.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maciejkrasny-cv/static/js/2.c7d8387b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fe0492b8abf06544f74",
-    "url": "/maciejkrasny-cv/static/js/main.ee7270ee.chunk.js"
+    "revision": "749c6980d4daee085009",
+    "url": "/maciejkrasny-cv/static/js/main.ad248dcc.chunk.js"
   },
   {
     "revision": "c4a8e637cb7f9f6de563",

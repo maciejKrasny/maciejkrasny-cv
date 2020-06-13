@@ -42,9 +42,9 @@ const experienceTimeLineElements: TimeLineElement[] = [
           </li>
           <li>
             <b>Partner Portal</b>,
-            w którym byłem odpowiedzialny implementację części wizualnej aplikacji webowej,
+            w którym byłem odpowiedzialny za implementację części wizualnej aplikacji webowej,
             stworzenie bazy danych przy użyciu silnika PostgreSQL, łączność z bazą danych 
-            we frameworku NestJS oraz zapewniania komunikacji aplikacji klienckiej z serwerem 
+            we frameworku NestJS oraz zapewnianie komunikacji aplikacji klienckiej z serwerem 
             wykorzystując technologię GraphQL.
           </li>
         </ExperienceList>
