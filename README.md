@@ -1,1 +1,1 @@
-[Link to cv](https://maciejkrasny.github.io/maciej-krasny-cv/)
+[Link to cv](https://maciejkrasny.github.io/maciejkrasny-cv/)
