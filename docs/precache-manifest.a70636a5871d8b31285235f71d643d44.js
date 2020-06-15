@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76901713a0390854344a6d2c3c7cb988",
+    "revision": "99d403da923124bb778c0b6f7f8c7f84",
     "url": "/maciejkrasny-cv/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maciejkrasny-cv/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "749c6980d4daee085009",
+    "revision": "ae7c3883d32b01679d88",
     "url": "/maciejkrasny-cv/static/css/main.1cbd3dda.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maciejkrasny-cv/static/js/2.c7d8387b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "749c6980d4daee085009",
-    "url": "/maciejkrasny-cv/static/js/main.ad248dcc.chunk.js"
+    "revision": "ae7c3883d32b01679d88",
+    "url": "/maciejkrasny-cv/static/js/main.eff5b77b.chunk.js"
   },
   {
     "revision": "c4a8e637cb7f9f6de563",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maciejkrasny-cv/static/media/Roboto-Regular.11eabca2.ttf"
   },
   {
-    "revision": "b07cf5b8c3053ba990999bc61abf3f20",
-    "url": "/maciejkrasny-cv/static/media/maciej_krasny.b07cf5b8.png"
+    "revision": "6bedb0314553d6e38894bf824de3f237",
+    "url": "/maciejkrasny-cv/static/media/maciej_krasny.6bedb031.png"
   }
 ]);
