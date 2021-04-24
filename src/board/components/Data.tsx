@@ -22,13 +22,13 @@ export const experienceTimeLineElements: TimeLineElement[] = [
         description: (
             <>
                 W SNP Poland zajmuję się projektami, gdzie frontend oparty jest na
-                języku JavaScript z wykorzystanie frameworka React, a backend na Javie
-                Spring. Głównymi projektami, nad którymi pracowałem są:
+                języku TypeScript z wykorzystanie frameworka React, a backend na Javie
+                Spring i NestJs. Głównymi projektami, nad którymi pracowałem są:
                 <ExperienceList>
                     <li>
                         <b>Software download portal</b>,
                         czyli system służący do pobierania oprogramowania zawiązanego z SAP. W tym projekcie odpowiadałem za
-                        komunikację z klietem wewnętrznym, prowadzenie spotkań, ustalanie i prioryteryzację zadań.
+                        zarządzanie zespołem, komunikację z klietem wewnętrznym, prowadzenie spotkań, ustalanie i prioryteryzację zadań.
                         Do moich obowiązków należał również development frontendu.
                     </li>
                     <li>

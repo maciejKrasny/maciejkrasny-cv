@@ -9,12 +9,24 @@ import { StyledSideMainElement } from "../styles/SideMainElement.styles";
 
 const skills: Skills[] = [
     {
+        category: "Zarządzanie projektami",
+        elements: [
+            "Zarządzanie zespołem",
+            "Ustalenie wymagań",
+            "Tworzenie backlogu",
+            "Prioryteryzacja zadań",
+            "Kontakt z klientem",
+            "Scrum",
+            "Agile",
+            "Kanban",
+            "User Stories"
+        ]
+    },
+    {
         category: "Frontend",
         elements: [
-            "JavaScript",
-            "TypeScript",
-            "React",
-            "React Native",
+            "JavaScript, TypeScript",
+            "React, React Native",
             "Kotlin",
             "Css",
             "Html",
@@ -26,8 +38,7 @@ const skills: Skills[] = [
         category: "Backend",
         elements: [
             "Java, Spring",
-            "NodeJs",
-            "NestJs",
+            "NodeJs, NestJs",
             "GraphQl",
             "SQL",
             "PostgreSQL",
@@ -47,9 +58,6 @@ const skills: Skills[] = [
         category: "Inne",
         elements: [
             "Język angielski poziom B2",
-            "Zarządzanie zespołem",
-            "Zarządzanie projektem",
-            "Kontakt z klientem"
         ]
     }
 ];
